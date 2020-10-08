@@ -4,6 +4,6 @@ Detecting sarcastic comments on Reddit using Natural Language Processing
 
 --- 
 ### The boys
-jamu
-jerry
-benny
+- jamu
+- jerry
+- benny
