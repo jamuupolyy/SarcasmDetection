@@ -1,3 +1,4 @@
+embedded_data/
 saved_models/
 *.feather
 *.csv
