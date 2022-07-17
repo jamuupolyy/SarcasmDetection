@@ -1,3 +1,4 @@
+# ignore large files/data sources
 video_resources/
 *.npy
 *.feather
